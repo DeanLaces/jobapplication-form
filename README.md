@@ -1,5 +1,5 @@
 # jobapplication-form
-Similar job application process to site such as Indeed or LinkedIn. Constructed using swing and awt.
+Similar job application process to site such as Indeed or LinkedIn. Constructed using swing and awt(JAVA).
 
 ## What is Picker/Brain?
 
